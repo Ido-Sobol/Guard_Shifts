@@ -1,4 +1,4 @@
-# shidts
+# shifts
 
 A new Flutter project.
 
