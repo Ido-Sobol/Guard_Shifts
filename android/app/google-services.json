@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291637501723",
+    "project_id": "guardshifts-52452",
+    "storage_bucket": "guardshifts-52452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291637501723:android:11538f52fab011dec63dbe",
+        "android_client_info": {
+          "package_name": "com.example.shidts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291637501723-pbj5hilu1rkvot0fg6hp3q3e50t78od4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kGZDwyyrQ2zdDBHFK3_OaihdiAvTRWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291637501723-pbj5hilu1rkvot0fg6hp3q3e50t78od4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
